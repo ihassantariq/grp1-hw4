@@ -19,7 +19,7 @@ There were two mendatory tasks.
 
 ### Note
 
-We do created some sample files for storing the data after scraping or doing each task but if someone is running the file. They should be able to do that using 
+We do created some sample files for storing the data after scraping or doing each task but if someone is running the file. They should be able to do that using just the **Homework_4.ipynb** file. 
 
 
 Let us know what do we need to improve. 
